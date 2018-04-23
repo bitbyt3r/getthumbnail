@@ -18,7 +18,7 @@ it under the terms of the one of two licenses as you choose:
 #include <math.h>
 
 #include "libraw/libraw.h"
-#include "python3.6/Python.h"
+#include "Python.h"
 
 
 static PyObject * getthumbnail(PyObject *self, PyObject *args)
